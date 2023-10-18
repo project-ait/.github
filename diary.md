@@ -35,6 +35,51 @@
 ### 문인우
 
 > ### 오전
+> - 회원가입, 로그인 기능 구현 완료
+
+> ### 오후
+> - 회원탈퇴 기능 및 auth 도메인 정리
+
+### 신지훈
+
+> ### 오전
+> - SvelteKit 개념 학습
+
+> ### 오후
+> - Sidebar 컴포넌트 작성
+
+### 정도현
+
+> ### 오전
+> - pseudo class selector 학습
+
+> ### 오후
+> - inline block, box model 및 마진 겹침에 대해 학습
+
+### 변상협
+
+> ### 오전
+> - 없음
+
+> ### 오후
+> - 없음
+
+</details>
+
+<details>
+    <summary><b>2023-10-18</b></summary>
+
+### **[PleahMaCaka](https://github.com/pleahmacaka)**
+
+> ### 오전
+> - text-generation-webui의 확장 프로그램의 /model 엔드포인트들 작성
+
+> ### 오후
+> - [테스트용 임시 클라이언트](https://github.com/pleahmacaka/stage-chat) 작성
+
+### 문인우
+
+> ### 오전
 > - DB의 계정 테이블 구현
 > - ID/PW 검증 및 테스트
 
