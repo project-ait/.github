@@ -114,7 +114,7 @@
 </details>
 
 <details>
-    <summary><b>2023-10-18</b></summary>
+    <summary><b>2023-10-19</b></summary>
 
 ### **[PleahMaCaka](https://github.com/pleahmacaka)**
 
@@ -157,5 +157,56 @@
 
 > ### 오후
 > - 외부에서의 DB 작동 확인
+
+</details>
+
+<details>
+    <summary><b>2023-10-23</b></summary>
+
+### **[PleahMaCaka](https://github.com/pleahmacaka)**
+
+> ### 오전
+> - 명령 생성용 캐릭터인 Commander의 페르소나 작성
+> - 전용 Instruction Template 작성
+> - 파라미터 조절 및 테스트
+> - LLaMA 2 13b GPTQ vs LLaMA 2 32k GPTQ 비교 및 테스트
+> - ExLlama2_HF 적용으로 성능 향상 (cfg-cache, use_fast)
+
+> ### 오후
+> - 프론트 
+>   - 종속성 업데이트, File Watcher 자동 빌드 무시
+>   - 컴포넌트 분리, 전역 StateStore, API 연동 쉽게 구조화
+
+### 문인우
+
+> ### 오전
+> -  문서 요약 서비스에서 Speech to text 에 필요한 whisper 모델 환경 구축
+
+> ### 오후
+> - 문서 요약 모델 리서치 및 날씨기능이 클라이언트에 적용될 때를 위해 세부조정,
+
+### 신지훈
+
+> ### 오전
+> - 버튼에 icon추가, Theme 기능 추가
+
+> ### 오후
+> - css 이것저것 수정
+
+### 정도현
+
+> ### 오전
+> - 웹사이트에 들어갈 input 만듬
+
+> ### 오후
+> - css 공부
+
+### 변상협
+
+> ### 오전
+> - 번호 입력 테스트 완료
+
+> ### 오후
+> - server, main.py 랑 같은 위치에 두고 실행하면 테스트 완료
 
 </details>
