@@ -123,6 +123,7 @@
 > ### 오전
 > - 모델 결과 전송용 API Wrapper [booga.js](https://github.com/pleahmacaka/booga.js) 작성
     >
+
 - CI/CD 자동화
 
 > ### 오후
@@ -179,8 +180,10 @@
 > ### 오후
 > - 프론트
     >
+
 - 종속성 업데이트, File Watcher 자동 빌드 무시 등 기타 설정
->   - 컴포넌트 분리, 전역 StateStore, API 연동 쉽게 구조화 (푸쉬 안함)
+
+> - 컴포넌트 분리, 전역 StateStore, API 연동 쉽게 구조화 (푸쉬 안함)
 
 ### 문인우
 
@@ -217,15 +220,17 @@
 </details>
 
 <details>
-    <summary><b>2023-10-23</b></summary>
+    <summary><b>2023-10-24</b></summary>
 
 ### **[PleahMaCaka](https://github.com/pleahmacaka)**
 
 > ### 오전
 > - Attention commits:
     >
+
 - [서버 코드 재작성 및 정리](https://github.com/project-ait/server/commit/b6a575645b80ee1a82da9b13614b79421a24a083)
->   - [프론트 코드 재작성 및 정리](https://github.com/project-ait/front/commit/94b30d4737b9bafb3b54667d6b04cd2ceb4485b4)
+
+> - [프론트 코드 재작성 및 정리](https://github.com/project-ait/front/commit/94b30d4737b9bafb3b54667d6b04cd2ceb4485b4)
 
 
 > ### 오후
@@ -267,5 +272,38 @@
 
 > ### 오후
 > - 숫자 테스트 완료
+
+</details>
+
+<details>
+    <summary><b>2023-10-25</b></summary>
+
+### **[PleahMaCaka](https://github.com/pleahmacaka)**
+
+> ### 오전
+> - 프론트 페이지 연동을 위한 백엔드 배포
+>   - 를 위한 도커화
+
+> ### 오후
+> - 프로젝트 배포 자동화 설정
+> - 도커 서비스 분할 및 docker-compose.yml 작성, 적용중
+
+### 문인우
+
+> ### 오전
+> - BART 추가 및 요약과 관련있는 서비스 수정 후 엔드포인트 구현
+
+> ### 오후/오후
+> - Svelte, CSS 복습
+
+### 정도현
+
+> ### 오전/오후
+> - css 복습
+
+### 변상협
+
+> ### 오전/오후
+> - 웹사이트 복습개념
 
 </details>
